@@ -1,0 +1,20 @@
+.content-wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.content-wrapper h1{
+    font-size: 50px;
+    font-weight: 900;
+    color: rebeccapurple;
+    flex: 2;
+}
+
+.image{
+    border: 12px solid red;
+    border-radius: 5px;
+    flex: 1;
+
+}

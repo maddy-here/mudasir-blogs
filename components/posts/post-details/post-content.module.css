@@ -1,0 +1,55 @@
+.content-container{
+    
+    padding-top: 1rem;
+    max-width: 800px;
+    margin-inline: auto;
+    background: rgb(217, 153, 247);
+}
+
+
+.main-content-container{
+    padding: 2rem 0rem;
+}
+
+.main-content-container h2{
+    font-size: 32px;
+    color:rebeccapurple;
+    font-weight: 800;
+}
+
+.main-content-container img{
+    max-width: 600px;
+    height: 300px;
+}
+
+.main-content-container p{
+    font-size: 18px;
+    font-weight: 500;
+}
+
+
+.main-content-container a{
+    font-size: 18px;
+    font-weight: 500;
+    text-decoration: underline;
+}
+
+
+.main-content-container li{
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.main-content-container strong{
+    font-size: 18px;
+    font-weight: 800;
+    color: rebeccapurple;
+}
+
+
+.hr-line{
+    height: 5px;
+    width: 100%;
+    margin-top: 1rem;
+    background-color: rebeccapurple;
+}

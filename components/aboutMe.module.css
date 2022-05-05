@@ -1,0 +1,31 @@
+.introduction{
+    max-width: 70%;
+    margin-inline: auto;
+    text-align: center;
+    border-radius: 0px 0px 50px 50px;
+    
+    background-color: rebeccapurple;
+    color: #fff;
+    padding: 30px;
+}
+
+.introduction h1{
+    margin: 0;
+    /* padding-top: 30px; */
+    font-weight: 900;
+    font-size: 48px;
+}
+
+.introduction p{
+    margin: 0;
+    margin-top: 20px;
+    max-width: 65%;
+    margin-inline: auto;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.profile-image{
+    border-radius: 50%;
+}
+

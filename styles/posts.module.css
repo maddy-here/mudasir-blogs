@@ -1,0 +1,8 @@
+.featured-posts-container{
+    padding: 50px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}

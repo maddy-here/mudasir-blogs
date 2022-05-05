@@ -1,0 +1,28 @@
+.post-item-container{
+    background-color:rebeccapurple;
+    max-width: 350px;
+    text-align: center;
+    margin: 0;
+    box-shadow: 0px 0px 5px #555;
+}
+.post-item-desc-container{
+    color: #fff;
+    padding: 30px;
+}
+.post-item-desc-container h3{
+    font-weight: 700;
+    margin: 0;
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+.post-item-desc-text {
+    margin: 0;
+    margin-top: 10px;
+    font-weight: 400;
+    margin-inline: auto;
+}
+
+.post-item-date{
+    font-style: italic;
+    font-weight: 100;
+}
